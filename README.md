@@ -1,15 +1,15 @@
 # Cloud-Service
-# Welcome to My Static Website
+# Free choice extra assignment bundle E
 
-This is a simple website created using **GitHub Pages** and _GitHub-flavored Markdown_.
 
-## Features
+## Basics
 
 Here are some cool features of this site:
-1. **Bold text** for emphasis.
-2. *Italic text* for subtle emphasis.
-3. Inline code, like `print("Hello, world!")`.
-4. Code blocks for longer snippets:
+1. **Bold text**: **Bold**.
+2. **Italic text**: *Italic*.
+3. **Strikethrough**: ~~Wrong~~
+4. Inline code, like `print("Hello, world!")`.
+5. Code blocks for longer snippets:
    ```python
    def hello():
-       print("Hello, world!")
+       print("Hello, Cloud-Service Course!")
