@@ -1,4 +1,4 @@
-# Cloud-Service
+# Cloud-Services
 # Free choice extra assignment bundle E
 
 
@@ -12,4 +12,5 @@ Here are some cool features of this site:
 5. Code blocks for longer snippets:
    ```python
    def hello():
-       print("Hello, Cloud-Service Course!")
+       print("Hello, Cloud-Services Course!")
+6. [Cloud Services](https://tl.oamk.fi/cloudservices/)
