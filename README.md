@@ -8,7 +8,7 @@ Here are some cool features of this site:
 1. **Bold text**: **Bold**.
 2. **Italic text**: *Italic*.
 3. **Strikethrough**: ~~Wrong~~
-4. Inline code, like `print("Hello, world!")`.
+4. Inline code, like `hello()`.
 5. Code blocks for longer snippets:
    ```python
    def hello():
